@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here's me in LinkedIn: https://www.linkedin.com/in/ssuhanov/
+
 <!--
 **ssuhanov/ssuhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
