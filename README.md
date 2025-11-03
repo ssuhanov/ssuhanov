@@ -6,7 +6,7 @@ My iOS apps on the App Store: https://apps.apple.com/de/developer/sergiy-sukhano
 
 <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/5a3ad24f-de57-42f0-8cbf-a2b7448c559e" /> [Sergii Sukhanov](https://www.facebook.com/sergii.sukhanov)
 
-<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/cda18234-c66b-454c-9965-b4c28b689e59" /> [@ssuhanov](http://instagram.com/ssuhanov/)
+<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/cda18234-c66b-454c-9965-b4c28b689e59" /> [@ssuhanov](https://instagram.com/ssuhanov/)
 
 <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/7c6d3956-95c7-491c-a1e8-090db9187592" /> [@s_suhanov](https://x.com/s_suhanov)
 
