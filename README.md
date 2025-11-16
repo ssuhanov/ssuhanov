@@ -1,4 +1,7 @@
-### Hi there 👋
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
+
+
+[![ssuhanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuhanov&show_icons=true&hide_title=false&include_all_commits=true&count_private=true)](#)
 
 My iOS apps on the App Store: https://apps.apple.com/de/developer/sergiy-sukhanov/id1098204834
 
