@@ -26,8 +26,8 @@ https://apps.apple.com/de/developer/sergiy-sukhanov/id1098204834
 ## Stats
 
 <div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=ssuhanov&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuhanov&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+  <a href="https://github.com/ssuhanov"><img height="135px" src="https://github-readme-stats.vercel.app/api?username=ssuhanov&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21"></a>
+  <a href="https://github.com/ssuhanov"><img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuhanov&hide_title=true&hide_border=true&layout=compact&langs_count=8"></a>
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/ssuhanov?style=social)](https://github.com/ssuhanov)
