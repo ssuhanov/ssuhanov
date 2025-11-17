@@ -3,15 +3,11 @@
 
 [![ssuhanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuhanov&show_icons=true&hide_title=false&include_all_commits=true&count_private=true)](#)
 
+<pre align="center">
+    <strong>👨‍💻 Sergii Sukhanov</strong> | <a href="https://ssuhanov.com">Homepage</a> | <a href="https://www.linkedin.com/in/ssuhanov/">LinkedIn</a> | <a href="https://x.com/s_suhanov">X (Twitter)</a> | <a href="https://www.facebook.com/sergii.sukhanov">Facebook</a> | <a href="https://instagram.com/ssuhanov/">Instagram</a> | <a href="https://www.threads.com/@ssuhanov">Threads</a>
+</pre>
+
 My iOS apps on the App Store: https://apps.apple.com/de/developer/sergiy-sukhanov/id1098204834
-
-<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/868b8692-f980-425e-9f23-841cf813eb58" /> [Sergii Sukhanov](https://www.linkedin.com/in/ssuhanov/)
-
-<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/5a3ad24f-de57-42f0-8cbf-a2b7448c559e" /> [Sergii Sukhanov](https://www.facebook.com/sergii.sukhanov)
-
-<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/cda18234-c66b-454c-9965-b4c28b689e59" /> [@ssuhanov](https://instagram.com/ssuhanov/)
-
-<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/7c6d3956-95c7-491c-a1e8-090db9187592" /> [@s_suhanov](https://x.com/s_suhanov)
 
 <!--
 **ssuhanov/ssuhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
