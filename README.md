@@ -9,7 +9,7 @@
 <div align="left">
   <a href="https://www.swift.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=swift" alt="swift logo" width="50" height="50" /></a>&nbsp;
   <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=xcode" alt="xcode logo" width="50" height="50" /></a>&nbsp;
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="github logo" width="50" height="50" /></a>&nbsp;
+  <a href="https://github.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="github logo" width="50" height="50" /></a>&nbsp;
   <a href="https://github.com/features/actions" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="githubactions logo" width="50" height="50" /></a>&nbsp;
 </div>
 
