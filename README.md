@@ -1,8 +1,7 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
-[![ssuhanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuhanov&show_icons=true&hide_title=false&include_all_commits=true&count_private=true)](#)
-
-[![GitHub followers](https://img.shields.io/github/followers/ssuhanov?style=social)](https://github.com/ssuhanov)
+## My iOS apps on the App Store
+https://apps.apple.com/de/developer/sergiy-sukhanov/id1098204834
 
 ## Skills
 
@@ -24,8 +23,14 @@
   <a href="mailto:ssuhanov@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50" height="50" alt="gmail" /></a>&nbsp;
 </div>
 
-## My iOS apps on the App Store
-https://apps.apple.com/de/developer/sergiy-sukhanov/id1098204834
+## Stats
+
+<div>
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=ssuhanov&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuhanov&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+</div>
+
+[![GitHub followers](https://img.shields.io/github/followers/ssuhanov?style=social)](https://github.com/ssuhanov)
 
 <!--
 **ssuhanov/ssuhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
